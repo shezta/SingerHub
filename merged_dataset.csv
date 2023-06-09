@@ -1,0 +1,164 @@
+singer_id,nama_lengkap,jenis_kelamin,usia,pengalaman_bernyanyi,daerah_asal,genre_musik,keterampilan_alatmusik,alamat_tempat_tinggal,latitude, longitude,Rating
+09i8o76,Aldi Prasetyo,Pria,25,3,Jakarta,Pop,Gitar,"Jl. Kebon Jeruk No. 1, Kebon Jeruk, Jakarta Barat",-6.193.847,106.769.712, 4.5
+73r5t02,Citra Puspita,Wanita,21,2,Yogyakarta,Rock,Piano,"Jl. Pemuda No. 2, Rawamangun, Jakarta Timur",-6.189.822,106.880.308, 4.2
+12q9w47,Bayu Rahman,Pria,28,5,Medan,Jazz,Bass,"Jl. Gatot Subroto No. 3, Kuningan, Jakarta Selatan",-6.229.622,106.819.893, 4.8
+51v2b78,Dian Sari,Wanita,23,1,Bandung,R&B,Drum,"Jl. Cikini Raya No. 4, Menteng, Jakarta Pusat",-6.196.114,106.842.165, 4.3
+38n7m54,Eko Santoso,Pria,27,4,Surabaya,Pop,Rhythm Guitar,"Jl. Pondok Indah No. 5, Pondok Indah, Jakarta Selatan",-6.276.292,106.781.154, 4.6
+96x3z21,Fika Anggraini,Wanita,22,6,Makassar,Dangdut,Keyboard,"Jl. Raya Bogor No. 6, Depok, Jawa Barat",-6.402.484,106.854.454, 4.4
+22c4v56,Gilang Nugroho,Pria,20,2,Bali,Pop,Rap,"Jl. Sudirman No. 7, Sudirman, Jakarta Pusat",-6.208.763,106.819.867, 4.5
+17b6k89,Hesti Susanti,Wanita,26,3,Padang,Rock,Gitar,"Jl. Pluit Selatan No. 8, Pluit, Jakarta Utara",-6.116.597,106.795.188, 4.1
+84m1n63,Irfan Wijaya,Pria,24,2,Palembang,Metal,Bass,"Jl. Serpong Raya No. 9, BSD, Tangerang",-6.271.745,106.652.713, 4.7
+39j8h76,Jasmine Indah,Wanita,23,1,Jakarta,Pop,Rhythm Guitar,"Jl. Kelapa Gading No. 10, Kelapa Gading, Jakarta Utara",-6.166.067,106.903.835, 4.0
+21t4r58,Anita Sari,Wanita,23,2,Bandung,Rock,Vokal,"Jl. Senayan No. 11, Senayan, Jakarta Selatan",-6.225.850,106.797.320, 4.3
+38e7w62,Budi Pratama,Pria,20,1,Surabaya,R&B,Dance,"Jl. Merdeka No. 12, Gambir, Jakarta Pusat",-6.175.375,106.827.476, 4.2
+57r2s90,Citra Dewi,Wanita,27,5,Medan,Dangdut,Drum,"Jl. Kemang Raya No. 13, Kemang, Jakarta Selatan",-6.262.147,106.815.689, 4.6
+64u9i82,Daniel Setiawan,Pria,28,6,Yogyakarta,Jazz,Piano,"Jl. Pejompongan No. 14, Tanah Abang, Jakarta Pusat",-6.207.988,106.800.163, 4.1
+64u9i82,Daniel Setiawan,Pria,28,6,Yogyakarta,Jazz,Piano,"Jl. Pejompongan No. 14, Tanah Abang, Jakarta Pusat",-6.207.988,106.800.163, 4.5
+64u9i82,Daniel Setiawan,Wanita,28,6,Yogyakarta,Jazz,Piano,"Jl. Boulevard Gading Serpong No. 132, Gading Serpong, Tangerang",-6.237.659,106.614.884, 4.3
+64u9i82,Daniel Setiawan,Wanita,28,6,Yogyakarta,Jazz,Piano,"Jl. Boulevard Gading Serpong No. 132, Gading Serpong, Tangerang",-6.237.659,106.614.884, 4.4
+80o4k15,Dina Permata,Wanita,21,1,Makassar,Pop,Gitar,"Jl. Jendral Sudirman No. 15, Setiabudi, Jakarta Selatan",-6.219.907,106.816.548, 4.0
+91a2f75,Eko Surya,Pria,29,7,Semarang,Rock,Vokal,"Jl. Cinere Raya No. 16, Cinere, Depok",-6.314.127,106.797.202, 4.8
+12n9m47,Eva Kusuma,Wanita,26,3,Palembang,Pop,Dance,"Jl. Bintaro Utama No. 17, Bintaro, Tangerang Selatan",-6.276.815,106.741.719, 4.2
+27d6c93,Ferryanto Siregar,Pria,24,4,Bandung,R&B,Gitar,"Jl. Fatmawati No. 18, Cilandak, Jakarta Selatan",-6.284.862,106.794.331, 4.5
+36v5b29,Gita Maulana,Wanita,20,1,Jakarta,Rock,Vokal,"Jl. Tomang Raya No. 19, Grogol, Jakarta Barat",-6.168.461,106.788.309, 4.1
+48s3e87,Hendra Santoso,Pria,22,2,Medan,Jazz,Piano,"Jl. Ciputat Raya No. 20, Ciputat, Tangerang Selatan",-6.316.199,106.739.811, 4.6
+57g4d65,Indah Puspita,Wanita,30,7,Surabaya,Dangdut,Drum,"Jl. Margonda Raya No. 21, Margonda, Depok",-6.364.194,106.824.702, 4.4
+61t2e75,Joko Nugroho,Pria,19,1,Yogyakarta,Rock,Gitar,"Jl. Kemanggisan No. 22, Slipi, Jakarta Barat",-6.196.725,106.784.985, 4.3
+75w1r63,Kiki Setiawan,Pria,26,5,Semarang,Jazz,Piano,"Jl. Thamrin No. 23, Thamrin, Jakarta Pusat",-6.191.279,106.823.126, 4.7
+89o7k24,Lia Susanti,Wanita,24,3,Makassar,Pop,Dance,"Jl. Tebet Barat No. 24, Tebet, Jakarta Selatan",-6.230.008,106.855.087, 4.0
+95n3m54,Miko Putra,Pria,23,2,Bandung,R&B,Vokal,"Jl. Kapten Tendean No. 25, Mampang Prapatan, Jakarta Selatan",-6.251.952,106.826.892, 4.5
+07d5c76,Nadia Permata,Wanita,21,1,Jakarta,Rock,Drum,"Jl. Raya Bekasi No. 26, Bekasi, Jawa Barat",-6.233.027,106.993.847, 4.2
+14v3b89,Oscar Siregar,Pria,27,6,Medan,Dangdut,Piano,"Jl. Harmoni No. 27, Harmoni, Jakarta Pusat",-6.164.869,106.817.431, 4.6
+29g2d75,Puspa Dewi,Wanita,25,4,Surabaya,Jazz,Vokal,"Jl. Kemayoran No. 28, Kemayoran, Jakarta Pusat",-6.162.732,106.853.499, 4.3
+51u2t39,Rahmat Santoso,Pria,28,2,Bandung,Rock,Drum,"Jl. Mangga Dua Raya No. 29, Mangga Dua, Jakarta Utara",-6.133.175,106.829.668, 4.5
+73y1r47,Citra Dewi,Wanita,21,1,Surabaya,Pop,Vokal,"Jl. BSD Boulevard No. 30, BSD, Tangerang",-6.300.531,106.640.600, 4.1
+24o6e50,Aldi Pratama,Pria,23,3,Jakarta,R&B,Piano,"Jl. Kedoya Raya No. 31, Kedoya, Jakarta Barat",-6.180.475,106.753.067, 4.7
+38k9t81,Rina Fitriani,Pria,26,5,Yogyakarta,Pop,Rhythm Guitar,"Jl. Palmerah Barat No. 32, Palmerah, Jakarta Barat",-6.196.411,106.787.924, 4.4
+62j3u09,Budi Susanto,Wanita,20,6,Jakarta,Indie,Vokal,"Jl. Sudirman Kav. 33, Sudirman, Jakarta Pusat",-6.210.574,106.818.184, 4.2
+62j3u09,Budi Susanto,Wanita,20,6,Jakarta,Indie,Vokal,"Jl. Sudirman Kav. 33, Sudirman, Jakarta Pusat",-6.210.574,106.818.184, 4.8
+62j3u09,Budi Susanto,Pria,20,6,Jakarta,Indie,Vokal,"Jl. Alam Sutera No. 112, Alam Sutera, Tangerang",-6.232.696,106.642.261, 4.1
+62j3u09,Budi Susanto,Pria,20,6,Jakarta,Indie,Vokal,"Jl. Alam Sutera No. 112, Alam Sutera, Tangerang",-6.232.696,106.642.261, 4.6
+88w5r71,Nurul Aulia,Pria,22,2,Semarang,Jazz,Keyboard,"Jl. Jatinegara Barat No. 34, Jatinegara, Jakarta Timur",-6.229.003,106.876.756, 4.3
+15y6t84,Indra Wijaya,Wanita,24,3,Bandung,Pop,Drum,"Jl. Tanjung Duren Raya No. 35, Tanjung Duren, Jakarta Barat",-6.169.548,106.785.193, 4.5
+76k2l90,Fadli Rahman,Pria,27,3,Bandung,Rock,Piano,"Jl. Casablanca Raya No. 36, Casablanca, Jakarta Selatan",-6.231.032,106.846.287, 4.2
+34f7d82,Anisa Fitri,Wanita,22,2,Surabaya,Pop,Vokal,"Jl. Pondok Cabe Raya No. 37, Pondok Cabe, Tangerang Selatan",-6.315.866,106.741.713, 4.7
+29j1u56,Rizki Pratama,Pria,29,5,Yogyakarta,Jazz,Bass,"Jl. Cibubur Raya No. 38, Cibubur, Jakarta Timur",-6.332.634,106.869.330, 4.4
+58h0w14,Ayu Dewi,Pria,23,1,Denpasar,Pop,Vokal,"Jl. Raya Serpong No. 39, Serpong, Tangerang",-6.265.232,106.628.505, 4.6
+63r9e27,Randy Hermawan,Wanita,28,6,Bali,Rock,Gitar,"Jl. Kelapa Nias Raya No. 40, Kelapa Gading, Jakarta Utara",-6.167.343,106.905.136, 4.1
+91a2m80,Siti Nurhayati,Pria,21,1,Medan,Klasik,Vokal,"Jl. Pancoran No. 41, Pancoran, Jakarta Selatan",-6.252.117,106.844.305, 4.5
+10o3i57,Irfan Wibowo,Wanita,26,4,Jakarta,Pop,Piano,"Jl. Raya Tangerang No. 42, Tangerang, Banten",-6.180.964,106.633.607, 4.3
+96j8z02,Rendra Saputra,Pria,30,7,Jakarta,Rock,Gitar,"Jl. Letjen S. Parman No. 43, Slipi, Jakarta Barat",-6.189.742,106.797.170, 4.7
+82m6k09,Rita Anggraini,Wanita,19,1,Semarang,Pop,Vokal,"Jl. Salemba Raya No. 44, Salemba, Jakarta Pusat",-6.201.620,106.843.592, 4.2
+65b2w97,Surya Nugroho,Wanita,24,3,Padang,Indie,Rhythm Guitar,"Jl. Jelambar Barat No. 45, Jelambar, Jakarta Barat",-6.158.870,106.774.905, 4.5
+94n5c13,Ani Permata,Wanita,23,2,Makassar,Rock,Drum,"Jl. Kembangan Raya No. 46, Kembangan, Jakarta Barat",-6.193.349,106.740.955, 4.1
+08m3n79,Hendra Prasetyo,Pria,27,5,Jakarta,Jazz,Piano,"Jl. Budi Kemuliaan No. 47, Menteng, Jakarta Pusat",-6.188.855,106.829.198, 4.6
+42f7d82,Ayu Fitri,Wanita,22,1,Surabaya,Pop,Rhythm Guitar,"Jl. Margonda Raya No. 48, Margonda, Depok",-6.365.297,106.828.559, 4.4
+39j8h77,Jasmine Indah,Pria,23,1,Jakarta,Pop,Rhythm Guitar,"Jl. Pemuda Kav. 49, Rawamangun, Jakarta Timur",-6.189.929,106.883.915, 4.3
+21t4r56,Anita Sari,Wanita,23,2,Bandung,Rock,Vokal,"Jl. Pluit Timur No. 50, Pluit, Jakarta Utara",-6.117.924,106.786.329, 4.7
+38e7w68,Budi Pratama,Pria,20,1,Surabaya,R&B,Dance,"Jl. Pahlawan No. 51, Pahlawan, Jakarta Pusat",-6.176.137,106.831.378, 4.0
+57r2s98,Citra Dewi,Wanita,27,5,Medan,Dangdut,Drum,"Jl. Pondok Labu No. 52, Pondok Labu, Jakarta Selatan",-6.294.702,106.788.577, 4.5
+64u9i12,Daniel Setiawan,Pria,28,6,Yogyakarta,Jazz,Piano,"Jl. Raya Bogor Km 53, Cibubur, Jakarta Timur",-6.346.301,106.911.780, 4.2
+80o4k20,Dina Permata,Wanita,21,1,Makassar,Pop,Gitar,"Jl. Pasar Minggu Raya No. 54, Pasar Minggu, Jakarta Selatan",-6.283.553,106.839.555, 4.6
+91a2f87,Eko Surya,Pria,29,7,Semarang,Rock,Vokal,"Jl. Cikini Raya No. 55, Menteng, Jakarta Pusat",-6.197.717,106.842.791, 4.3
+12n9m45,Eva Kusuma,Wanita,26,3,Palembang,Pop,Dance,"Jl. Cipete Raya No. 56, Cilandak, Jakarta Selatan",-6.263.484,106.804.419,4.5
+27d6c97,Ferryanto Siregar,Pria,24,4,Bandung,R&B,Gitar,"Jl. Tebet Raya No. 57, Tebet, Jakarta Selatan",-6.233.816,106.855.554, 4.5
+36v5b21,Gita Maulana,Pria,20,1,Jakarta,Rock,Vokal,"Jl. Kramat Raya No. 58, Kramat, Jakarta Pusat",-6.198.899,106.846.609, 4.1
+48s3e82,Hendra Santoso,Wanita,22,2,Medan,Jazz,Piano,"Jl. Kalimalang No. 59, Bekasi, Jawa Barat",-6.252.234,106.998.106, 4.7
+57g4d45,Indah Puspita,Pria,30,7,Surabaya,Dangdut,Drum,"Jl. Kemang Timur No. 60, Kemang, Jakarta Selatan",-6.266.827,106.814.582, 4.4
+61t2e65,Joko Nugroho,Wanita,19,1,Yogyakarta,Rock,Gitar,"Jl. Raya Serpong No. 61, Serpong, Tangerang",-6.244.338,106.628.309, 4.2
+75w1r32,Kiki Setiawan,Pria,26,5,Semarang,Jazz,Piano,"Jl. Rawa Buntu No. 62, Serpong, Tangerang Selatan",-6.309.141,106.678.003, 4.8
+89o7k53,Lia Susanti,Wanita,24,3,Makassar,Pop,Dance,"Jl. Cempaka Putih No. 63, Cempaka Putih, Jakarta Pusat",-6.175.953,106.867.575, 4.1
+95n3m14,Miko Putra,Pria,23,2,Bandung,R&B,Vokal,"Jl. Mangga Besar No. 64, Taman Sari, Jakarta Barat",-6.150.076,106.826.293, 4.6
+07d5c92,Nadia Permata,Wanita,21,1,Jakarta,Rock,Drum,"Jl. Letjen Haryono No. 65, Cawang, Jakarta Timur",-6.261.860,106.870.162, 4.3
+14v3b65,Oscar Siregar,Pria,27,6,Medan,Dangdut,Piano,"Jl. Pulomas No. 66, Kelapa Gading, Jakarta Utara",-6.191.495,106.890.893, 4.5
+29g2d31,Puspa Dewi,Pria,25,4,Surabaya,Jazz,Vokal,"Jl. Hayam Wuruk No. 67, Mangga Dua, Jakarta Utara",-6.139.401,106.825.206, 4.2
+51u2t29,Rahmat Santoso,Wanita,28,2,Bandung,Rock,Drum,"Jl. Cideng Barat No. 68, Cideng, Jakarta Pusat",-6.167.150,106.807.792, 4.7
+73y1r14,Citra Dewi,Pria,21,1,Surabaya,Pop,Vokal,"Jl. Jatinegara Timur No. 69, Jatinegara, Jakarta Timur",-6.220.081,106.869.493, 4.4
+24o6e30,Aldi Pratama,Wanita,23,3,Jakarta,R&B,Piano,"Jl. Duren Tiga Raya No. 70, Pancoran, Jakarta Selatan",-6.250.137,106.843.092, 4.6
+38k9t51,Rina Fitriani,Pria,26,5,Yogyakarta,Pop,Rhythm Guitar,"Jl. MT Haryono No. 71, Pancoran, Jakarta Selatan",-6.249.225,106.842.254, 4.3
+62j3u06,Budi Susanto,Wanita,20,6,Jakarta,Indie,Vokal,"Jl. Margonda Raya No. 73, Margonda, Depok",-6.364.012,106.826.075, 4.5
+88w5r82,Nurul Aulia,Pria,22,2,Semarang,Jazz,Keyboard,"Jl. Jendral Sudirman No. 74, Sudirman, Jakarta Pusat",-6.208.763,106.822.959, 4.2
+15y6t21,Indra Wijaya,Wanita,24,3,Bandung,Pop,Drum,"Jl. Gatot Subroto No. 75, Kuningan, Jakarta Selatan",-6.219.256,106.818.122, 4.7
+76k2l45,Fadli Rahman,Pria,27,3,Bandung,Rock,Piano,"Jl. Pondok Gede No. 76, Pondok Gede, Bekasi",-6.294.497,106.902.880, 4.4
+34f7d21,Anisa Fitri,Wanita,22,2,Surabaya,Pop,Vokal,"Jl. Kramat Jati No. 77, Kramat Jati, Jakarta Timur",-6.296.223,106.865.261, 4.6
+29j1u82,Rizki Pratama,Pria,29,5,Yogyakarta,Jazz,Bass,"Jl. Sawangan Raya No. 78, Sawangan, Depok",-6.377.368,106.784.092, 4.3
+58h0w56,Ayu Dewi,Wanita,23,1,Denpasar,Pop,Vokal,"Jl. Kemayoran No. 79, Kemayoran, Jakarta Pusat",-6.164.635,106.850.879, 4.5
+63r9e09,Randy Hermawan,Pria,28,6,Bali,Rock,Gitar,"Jl. Tanah Abang No. 80, Tanah Abang, Jakarta Pusat",-6.176.299,106.814.811, 4.2
+91a2m45,Siti Nurhayati,Pria,21,1,Medan,Klasik,Vokal,"Jl. Puri Indah No. 81, Puri Indah, Jakarta Barat",-6.182.735,106.758.471, 4.7
+10o3i87,Irfan Wibowo,Wanita,26,4,Jakarta,Pop,Piano,"Jl. Senopati No. 82, Senopati, Jakarta Selatan",-6.238.114,106.810.404, 4.4
+96j8z27,Rendra Saputra,Pria,30,7,Jakarta,Rock,Gitar,"Jl. Jendral Sudirman No. 83, Setiabudi, Jakarta Selatan",-6.214.553,106.818.828, 4.6
+82m6k06,Rita Anggraini,Wanita,19,1,Semarang,Pop,Vokal,"Jl. Pondok Indah No. 84, Pondok Indah, Jakarta Selatan",-6.266.133,106.783.132, 4.3
+65b2w79,Surya Nugroho,Pria,24,3,Padang,Indie,Rhythm Guitar,"Jl. Gajah Mada No. 85, Gajah Mada, Jakarta Pusat",-6.148.851,106.813.010, 4.5
+94n5c45,Ani Permata,Wanita,23,2,Makassar,Rock,Drum,"Jl. Pulogadung No. 86, Pulogadung, Jakarta Timur",-6.191.893,106.909.133, 4.2
+08m3n97,Hendra Prasetyo,Pria,27,5,Jakarta,Jazz,Piano,"Jl. TB Simatupang No. 87, Cilandak, Jakarta Selatan",-6.304.317,106.823.926, 4.7
+42f7d31,Ayu Fitri,Wanita,22,1,Surabaya,Pop,Rhythm Guitar,"Jl. Thamrin Boulevard No. 88, Kelapa Gading, Jakarta Utara",-6.159.862,106.907.457,4.1
+39j8h59,Jasmine Indah,Pria,23,1,Jakarta,Pop,Rhythm Guitar,"Jl. Cipinang Raya No. 89, Cipinang, Jakarta Timur",-6.229.951,106.877.970, 4.4
+21t4r34,Anita Sari,Pria,23,2,Bandung,Rock,Vokal,"Jl. Raya Bogor No. 90, Depok, Jawa Barat",-6.386.537,106.821.590, 4.6
+38e7w76,Budi Pratama,Wanita,20,1,Surabaya,R&B,Dance,"Jl. Pondok Bambu No. 91, Duren Sawit, Jakarta Timur",-6.229.071,106.907.113, 4.3
+57r2s81,Citra Dewi,Pria,27,5,Medan,Dangdut,Drum,"Jl. Kebayoran Lama No. 92, Kebayoran Lama, Jakarta Selatan",-6.248.729,106.780.787, 4.5
+64u9i34,Daniel Setiawan,Wanita,28,6,Yogyakarta,Jazz,Piano,"Jl. Serpong No. 93, Serpong, Tangerang",-6.275.417,106.651.604, 4.2
+80o4k09,Dina Permata,Pria,21,1,Makassar,Pop,Gitar,"Jl. Kelapa Dua No. 94, Kelapa Gading, Jakarta Utara",-6.158.017,106.908.440, 4.7
+91a2f82,Eko Surya,Wanita,29,7,Semarang,Rock,Vokal,"Jl. Gatot Subroto No. 95, Cikarang, Bekasi",-6.231.826,107.122.083, 4.4
+12n9m14,Eva Kusuma,Pria,26,3,Palembang,Pop,Tari,"Jl. Raya Serpong No. 96, Serpong, Tangerang",-6.325.309,106.666.660, 4.6
+27d6c31,Ferryanto Siregar,Wanita,24,4,Bandung,R&B,Gitar,"Jl. Mangga Besar No. 97, Mangga Dua, Jakarta Utara",-6.145.825,106.825.868, 4.3
+36v5b82,Gita Maulana,Pria,20,1,Jakarta,Rock,Vokal,"Jl. Kuningan No. 98, Kuningan, Jakarta Selatan",-6.230.218,106.827.731, 4.5
+48s3e65,Hendra Santoso,Wanita,22,2,Medan,Jazz,Piano,"Jl. Suryopranoto No. 99, Petojo, Jakarta Pusat",-6.163.288,106.830.469, 4.2
+57g4d14,Indah Puspita,Pria,30,7,Surabaya,Dangdut,Drum,"Jl. KH Hasyim Ashari No. 100, Sawah Besar, Jakarta Pusat",-6.148.881,106.823.189, 4.7
+61t2e31,Joko Nugroho,Wanita,19,1,Yogyakarta,Rock,Gitar,"Jl. Kemang Raya No. 101, Kemang, Jakarta Selatan",-6.262.328,106.819.271, 4.4
+75w1r82,Kiki Setiawan,Pria,26,5,Semarang,Jazz,Piano,"Jl. Pantai Indah No. 102, Pantai Indah Kapuk, Jakarta Utara",-6.109.228,106.737.651, 4.6
+89o7k45,Lia Susanti,Pria,24,3,Makassar,Pop,Dance,"Jl. Sudirman Kav. 103, Sudirman, Jakarta Pusat",-6.208.763,106.821.646, 4.3
+95n3m21,Miko Putra,Wanita,23,2,Bandung,R&B,Vokal,"Jl. Meruya Ilir No. 104, Meruya, Jakarta Barat",-6.191.979,106.745.574, 4.5
+07d5c59,Nadia Permata,Pria,21,1,Jakarta,Rock,Drum,"Jl. Serpong Kencana No. 105, Serpong, Tangerang",-6.295.530,106.653.372, 4.2
+14v3b31,Oscar Siregar,Wanita,27,6,Medan,Dangdut,Piano,"Jl. Pondok Hijau No. 106, Pondok Indah, Jakarta Selatan",-6.284.855,106.787.618, 4.7
+29g2d45,Puspa Dewi,Pria,25,4,Surabaya,Jazz,Vokal,"Jl. Kelapa Nias No. 107, Kelapa Gading, Jakarta Utara",-6.159.259,106.911.145, 4.4
+51u2t82,Rahmat Santoso,Wanita,28,2,Bandung,Rock,Drum,"Jl. Puri Kembangan No. 108, Puri Kembangan, Jakarta Barat",-6.192.540,106.737.086, 4.6
+73y1r21,Citra Dewi,Pria,21,1,Surabaya,Pop,Vokal,"Jl. TB Simatupang No. 109, Cilandak, Jakarta Selatan",-6.300.865,106.827.191, 4.3
+24o6e82,Aldi Pratama,Wanita,23,3,Jakarta,R&B,Piano,"Jl. Raya Bekasi No. 110, Bekasi, Jawa Barat",-6.234.194,106.999.179, 4.5
+38k9t34,Rina Fitriani,Pria,26,5,Yogyakarta,Pop,Rhythm Guitar,"Jl. Rawamangun No. 111, Rawamangun, Jakarta Timur",-6.196.516,106.872.145, 4.2
+88w5r76,Nurul Aulia,Wanita,22,2,Semarang,Jazz,Keyboard,"Jl. Kebon Jeruk No. 113, Kebon Jeruk, Jakarta Barat",-6.194.481,106.762.394, 4.7
+15y6t45,Indra Wijaya,Pria,24,3,Bandung,Pop,Drum,"Jl. Daan Mogot No. 114, Daan Mogot, Jakarta Barat",-6.161.043,106.731.737, 4.4
+76k2l31,Fadli Rahman,Wanita,27,3,Bandung,Rock,Piano,"Jl. Kebagusan No. 115, Kebagusan, Jakarta Selatan",-6.282.234,106.836.137, 4.6
+34f7d09,Anisa Fitri,Pria,22,2,Surabaya,Pop,Vokal,"Jl. Gading Serpong No. 116, Gading Serpong, Tangerang",-6.244.868,106.627.356, 4.3
+29j1u45,Rizki Pratama,Wanita,29,5,Yogyakarta,Jazz,Bass,"Jl. Slipi No. 117, Slipi, Jakarta Barat",-6.192.872,106.795.303, 4.5
+58h0w31,Ayu Dewi,Pria,23,1,Denpasar,Pop,Vokal,"Jl. Ciledug Raya No. 118, Ciledug, Tangerang",-6.244.926,106.763.942, 4.2
+63r9e76,Randy Hermawan,Wanita,28,6,Bali,Rock,Gitar,"Jl. Margonda No. 119, Depok, Jawa Barat",-6.365.957,106.825.792, 4.7
+91a2m14,Siti Nurhayati,Pria,21,1,Medan,Klasik,Vokal,"Jl. Meruya Utara No. 120, Meruya, Jakarta Barat",-6.194.351,106.746.281, 4.4
+10o3i82,Irfan Wibowo,Wanita,26,4,Jakarta,Pop,Piano,"Jl. Pluit Raya No. 121, Pluit, Jakarta Utara",-6.119.366,106.787.661, 4.6
+96j8z45,Rendra Saputra,Pria,30,7,Jakarta,Rock,Gitar,"Jl. Bintaro Utama No. 122, Bintaro, Tangerang Selatan",-6.286.476,106.734.759, 4.3
+82m6k31,Rita Anggraini,Wanita,19,1,Semarang,Pop,Vokal,"Jl. Pemuda No. 123, Pemuda, Jakarta Timur",-6.221.067,106.892.568, 4.5
+65b2w82,Surya Nugroho,Pria,24,3,Padang,Indie,Rhythm Guitar,"Jl. Kapten Tendean No. 124, Tendean, Jakarta Selatan",-6.245.365,106.814.318, 4.2
+94n5c31,Ani Permata,Pria,23,2,Makassar,Rock,Drum,"Jl. Kuningan Barat No. 125, Kuningan, Jakarta Selatan",-6.224.285,106.828.957, 4.7
+08m3n82,Hendra Prasetyo,Wanita,27,5,Jakarta,Jazz,Piano,"Jl. Jelambar No. 126, Jelambar, Jakarta Barat",-6.168.090,106.766.931, 4.4
+42f7d59,Ayu Fitri,Pria,22,1,Surabaya,Pop,Rhythm Guitar,"Jl. Rawa Belong No. 127, Rawa Belong, Jakarta Barat",-6.174.186,106.790.100, 4.6
+39j8h34,Jasmine Indah,Wanita,23,1,Jakarta,Pop,Rhythm Guitar,"Jl. Serpong Utara No. 128, Serpong, Tangerang",-6.329.638,106.639.475, 4.3
+21t4r82,Anita Sari,Pria,23,2,Bandung,Rock,Vokal,"Jl. Permata Hijau No. 129, Permata Hijau, Jakarta Selatan",-6.214.670,106.778.694, 4.5
+38e7w45,Budi Pratama,Wanita,20,1,Surabaya,R&B,Dance,"Jl. Pondok Aren No. 130, Pondok Aren, Tangerang",-6.305.742,106.708.268, 4.2
+57r2s31,Citra Dewi,Pria,27,5,Medan,Dangdut,Drum,"Jl. Kebon Melati No. 131, Kebon Melati, Jakarta Pusat",-6.174.732,106.818.662, 4.7
+80o4k76,Dina Permata,Pria,21,1,Makassar,Pop,Gitar,"Jl. Bumi Serpong Damai No. 133, BSD City, Tangerang",-6.313.643,106.671.702, 4.4
+91a2f31,Eko Surya,Pria,29,7,Semarang,Rock,Vokal,"Jl. Senopati No. 134, Senopati, Jakarta Selatan",-6.238.437,106.805.040, 4.6
+12n9m82,Eva Kusuma,Wanita,26,3,Palembang,Pop,Dance,"Jl. S. Parman No. 135, Slipi, Jakarta Barat",-6.194.292,106.799.794, 4.3
+27d6c59,Ferryanto Siregar,Pria,24,4,Bandung,R&B,Gitar,"Jl. MT Haryono No. 136, MT Haryono, Jakarta Timur",-6.249.063,106.855.237, 4.5
+36v5b31,Gita Maulana,Wanita,20,1,Jakarta,Rock,Vokal,"Jl. Pasar Minggu No. 137, Pasar Minggu, Jakarta Selatan",-6.270.643,106.835.214, 4.2
+48s3e45,Hendra Santoso,Pria,22,2,Medan,Jazz,Piano,"Jl. Pahlawan Revolusi No. 138, Pahlawan Revolusi, Jakarta Timur",-6.252.972,106.899.114, 4.7
+57g4d09,Indah Puspita,Wanita,30,7,Surabaya,Dangdut,Drum,"Jl. Pondok Kelapa No. 139, Pondok Kelapa, Jakarta Timur",-6.283.175,106.876.504, 4.4
+61t2e45,Joko Nugroho,Pria,19,1,Yogyakarta,Rock,Gitar,"Jl. Kalimalang No. 140, Kalimalang, Bekasi",-6.286.330,106.932.540, 4.6
+75w1r31,Kiki Setiawan,Wanita,26,5,Semarang,Jazz,Piano,"Jl. Sudimara No. 141, Ciledug, Tangerang",-6.257.343,106.754.787, 4.3
+89o7k09,Lia Susanti,Pria,24,3,Makassar,Pop,Tari,"Jl. Kemayoran No. 142, Kemayoran, Jakarta Pusat",-6.163.237,106.854.416, 4.5
+95n3m82,Miko Putra,Wanita,23,2,Bandung,R&B,Vokal,"Jl. Mangga Dua No. 143, Mangga Dua, Jakarta Utara",-6.139.157,106.835.289, 4.2
+07d5c31,Nadia Permata,Pria,21,1,Jakarta,Rock,Drum,"Jl. Kedoya No. 144, Kedoya, Jakarta Barat",-6.157.072,106.769.588, 4.7
+14v3b59,Oscar Siregar,Wanita,27,6,Medan,Dangdut,Piano,"Jl. Rempoa No. 145, Rempoa, Tangerang Selatan",-6.295.450,106.724.875, 4.4
+29g2d09,Puspa Dewi,Pria,25,4,Surabaya,Jazz,Vokal,"Jl. Palmerah No. 146, Palmerah, Jakarta Barat",-6.195.987,106.793.708, 4.6
+51u2t31,Rahmat Santoso,Pria,28,2,Bandung,Rock,Drum,"Jl. Jenderal Sudirman No. 147, Sudirman, Jakarta Pusat",-6.211.544,106.819.634, 4.3
+73y1r82,Citra Dewi,Wanita,21,1,Surabaya,Pop,Vokal,"Jl. Pejaten Raya No. 148, Pejaten, Jakarta Selatan",-6.274.718,106.839.265, 4.5
+24o6e31,Aldi Pratama,Pria,23,3,Jakarta,R&B,Piano,"Jl. Pancoran No. 149, Pancoran, Jakarta Selatan",-6.252.178,106.841.328, 4.2
+38k9t45,Rina Fitriani,Wanita,26,5,Yogyakarta,Pop,Rhythm Guitar,"Jl. Kelapa Dua No. 150, Kelapa Dua, Tangerang",-6.176.728,106.670.827, 4.7
+62j3u82,Budi Susanto,Pria,20,6,Jakarta,Indie,Vokal,"Jl. Mampang Prapatan No. 151, Mampang Prapatan, Jakarta Selatan",-6.254.377,106.835.365, 4.4
+88w5r31,Nurul Aulia,Wanita,22,2,Semarang,Jazz,Keyboard,"Jl. Radio Dalam No. 152, Radio Dalam, Jakarta Selatan",-6.270.880,106.800.046, 4.6
+15y6t59,Indra Wijaya,Pria,24,3,Bandung,Pop,Drum,"Jl. Puri Indah No. 153, Puri Indah, Jakarta Barat",-6.173.944,106.733.683, 4.3
+76k2l82,Fadli Rahman,Wanita,27,3,Bandung,Rock,Piano,"Jl. Bekasi Timur No. 154, Bekasi, Jawa Barat",-6.242.178,107.007.993, 4.5
+34f7d45,Anisa Fitri,Pria,22,2,Surabaya,Pop,Vokal,"Jl. Karawaci No. 155, Karawaci, Tangerang",-6.187.011,106.564.404, 4.2
+29j1u31,Rizki Pratama,Pria,29,5,Yogyakarta,Jazz,Bass,"Jl. Jatinegara Barat No. 156, Jatinegara, Jakarta Timur",-6.229.982,106.873.390, 4.7
+58h0w82,Ayu Dewi,Wanita,23,1,Denpasar,Pop,Vokal,"Jl. Kemanggisan No. 157, Kemanggisan, Jakarta Barat",-6.192.457,106.789.284, 4.3
+63r9e31,Randy Hermawan,Pria,28,6,Bali,Rock,Gitar,"Jl. Tebet Barat No. 158, Tebet, Jakarta Selatan",-6.226.364,106.852.983, 4.5
+91a2m59,Siti Nurhayati,Wanita,21,1,Medan,Klasik,Vokal,"Jl. Pulo Mas No. 159, Pulo Mas, Jakarta Timur",-6.206.012,106.897.894, 4.2
+10o3i31,Irfan Wibowo,Pria,26,4,Jakarta,Pop,Piano,"Jl. Pondok Gede No. 160, Pondok Gede, Bekasi",-6.270.802,106.924.296, 4.7
